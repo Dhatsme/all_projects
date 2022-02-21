@@ -1,0 +1,8 @@
+San Francisco Giants over Miami Marlins 3:0
+Chicago Cubs over Houston Astros 6:1
+New York Mets over San Francisco Giants 4:3
+a.log
+b.svh
+c.sv
+d.log
+makefile
