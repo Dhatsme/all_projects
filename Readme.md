@@ -1,6 +1,6 @@
 # all_projects
 
-##An Hour OF Code in Perl
+## An Hour OF Code in Perl
 
 **Code 1: Hello Perl!**
 
