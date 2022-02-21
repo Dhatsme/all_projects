@@ -16,4 +16,3 @@ Scenario: You are tracing for a particular memory address and you want to trace 
 memory address and put it in a file. 
 Code 5: Find all the lines printed in a specific format
 Scenario : You have a coverage report in form of log. You want to fetch only the lines of text for the headers printed in a specific format. 
-
