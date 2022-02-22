@@ -8,10 +8,11 @@
 # UVM:
 1. My favorite project on UVM for candy lovers: 
     - Rather than using any protocol this project uses candy to understand uvm in fun and intutive way. 
-    - the project is quite wholesome and contains top, env, agent, driver, transactions, sequencer, sequence, and interace. 
+    - the project is quite wholesome and contains top, env, agent, driver, transactions, sequencer, sequence, and interface. 
+    - though i do plan to add coverage and other stuff but it doesn't exist yet. 
     - Clean uvm prints makes it easy to understand the working
 2. adder-subtractor:
     - done to understand the basics of uvm environment and connections. 
 3. Protocol 
-    - to get the verification wala feel hahaha....
+    - to get the verification wala feel hahaha....🙂
     
