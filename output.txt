@@ -1,2 +1,0 @@
-Hello, D
- ... you will soon be a Perl addict!This line gets printed into output.txt.
