@@ -13,6 +13,7 @@
     - Clean uvm prints makes it easy to understand the working.
 2. adder-subtractor:
     - done to understand the basics of uvm environment and connections. 
-3. Protocol 
+3. ADPCM Protocol 
     - to get the verification wala feel hahaha...😄
+    - i know it is lacking, but yeh good to get started.
     
