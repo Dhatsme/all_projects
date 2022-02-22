@@ -1,4 +1,4 @@
-## ADPCM Protocol  unidirectional comms protocol 
+## ADPCM (Adaptive Differential Pulse Code Modulation Protocol) like the unidirectional comms protocol 
 
 ## Design.sv
 Contains only the interface and not the design
