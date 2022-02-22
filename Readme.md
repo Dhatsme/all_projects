@@ -1,6 +1,6 @@
 # perl
 
-## An Hour OF Code in Perl
+## An Hour OF Code with Perl
 
 ### **Code 1: Hello Perl!**
 
