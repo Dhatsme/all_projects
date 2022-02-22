@@ -1,7 +1,7 @@
 ## UVM for Candy Lovers
 ![image](https://user-images.githubusercontent.com/36080817/155073135-009124d3-1dfe-4db4-8e0d-ec5102e1c649.png)
 ### Note: This project is forked from the main project by UVM for Candy Lovers by cluelogic. 
-## Design files:
+### Design files:
 1. jelly_bean_if.sv
 2. design.sv
 ### Testbench files: 
