@@ -5,7 +5,7 @@
 1. d flip flop : Design and verification files+ waveforms
 2. ram with single port: just my atempts to create ram from scratch
 
-### UVM:
+# UVM:
 1. My favorite project on UVM for candy lovers: 
     - Rather than using any protocol this project uses candy to understand uvm in fun and intutive way. 
     - the project is quite wholesome and contains top, env, agent, driver, transactions, sequencer, sequence, and interace. 
