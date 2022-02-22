@@ -145,8 +145,3 @@ class jelly_bean_env extends uvm_env;
 	jb_agent2.jb_ap.connect( jb_sb2.jb_analysis_export );
    endfunction: connect_phase
 endclass: jelly_bean_env
-
-//==============================================================================
-// Copyright (c) 2011-2016 ClueLogic, LLC
-// http://cluelogic.com/
-//==============================================================================
