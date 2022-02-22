@@ -4,7 +4,8 @@
 Contains only the interface and not the design
 ## Testbench.sv
  1. sequence item 
- 2. driver
+ ###2. driver
+ Unidirectional driver uses the get_next_item(), item_done() approach
  3. sequencer
  4. top_tb 
 ## Waveforms:
