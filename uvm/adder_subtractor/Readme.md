@@ -1,5 +1,7 @@
 # Adder Subtractor design verified using UVM
 ## Design.sv contents: 
- -DUT -Interface -Binding 
+ 1. DUT
+ 2. Interface
+ 3. Binding
 
 ## Testbench.sv contents: 
