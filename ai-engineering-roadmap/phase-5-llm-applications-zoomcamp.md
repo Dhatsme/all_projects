@@ -2,6 +2,8 @@
 
 [← Back to roadmap](README.md)
 
+_Sub-chapter times in [brackets] are realistic mid-point estimates (between best and worst case), including ~2× video time plus exercises._
+
 Estimated: 66–76 hours | 7–10 weeks
 
 Primary resource: DataTalks.Club — LLM Zoomcamp 2026
@@ -15,7 +17,7 @@ Primary resource: DataTalks.Club — LLM Zoomcamp 2026
 
 This is a free, practical course covering RAG, vector search, orchestration, evaluation and monitoring. It treats LLMs as black boxes, which makes it complementary to Stanford CS336. [Course overview and curriculum](https://datatalksclub.github.io/docs/courses/llm-zoomcamp/).
 
-## 5.1 Agentic RAG
+## 5.1 Agentic RAG [13 h]
 
 - [ ] Complete Module 1 — Agentic RAG.
 - [ ] Understand what Retrieval-Augmented Generation (RAG) is.
@@ -26,7 +28,7 @@ This is a free, practical course covering RAG, vector search, orchestration, eva
 - [ ] Build a basic agent loop.
 - [ ] Complete Homework 1.
 
-## 5.2 Vector search and embeddings
+## 5.2 Vector search and embeddings [12 h]
 
 - [ ] Complete Module 2 — Vector Search.
 - [ ] Understand embeddings.
@@ -38,7 +40,7 @@ This is a free, practical course covering RAG, vector search, orchestration, eva
 - [ ] Compare keyword search with semantic search.
 - [ ] Complete Homework 2.
 
-## 5.3 Orchestration
+## 5.3 Orchestration [10 h]
 
 - [ ] Complete Module 3 — Orchestration.
 - [ ] Understand workflow orchestration.
@@ -48,7 +50,7 @@ This is a free, practical course covering RAG, vector search, orchestration, eva
 - [ ] Understand how to manage state between steps.
 - [ ] Complete Homework 3.
 
-## 5.4 Evaluation
+## 5.4 Evaluation [11 h]
 
 - [ ] Complete Module 4 — Evaluation.
 - [ ] Understand how to create a ground-truth dataset.
@@ -59,7 +61,7 @@ This is a free, practical course covering RAG, vector search, orchestration, eva
 - [ ] Evaluate agent tool-call trajectories.
 - [ ] Complete Homework 4.
 
-## 5.5 Monitoring
+## 5.5 Monitoring [10 h]
 
 - [ ] Complete Module 5 — Monitoring.
 - [ ] Track latency.
@@ -70,7 +72,7 @@ This is a free, practical course covering RAG, vector search, orchestration, eva
 - [ ] Understand the role of PostgreSQL and Streamlit.
 - [ ] Complete Homework 5.
 
-## 5.6 Capstone
+## 5.6 Capstone [15 h]
 
 - [ ] Review the official LLM Zoomcamp capstone guidelines.
 - [ ] Build a RAG application using your own knowledge base.

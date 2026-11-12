@@ -2,6 +2,8 @@
 
 [← Back to roadmap](README.md)
 
+_Sub-chapter times in [brackets] are realistic mid-point estimates (between best and worst case), including ~2× video time plus exercises._
+
 Estimated: 30–39 hours | 4–5 weeks
 
 Primary resource: Andrej Karpathy — Neural Networks: Zero to Hero
@@ -11,21 +13,21 @@ Primary resource: Andrej Karpathy — Neural Networks: Zero to Hero
 - [Complete course and notebooks](https://github.com/karpathy/nn-zero-to-hero)
 - [YouTube lecture playlist](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
-## 1.1 Understand neural networks and backpropagation
+## 1.1 Understand neural networks and backpropagation [8 h]
 
 - [ ] Lecture 1 — Build micrograd: understand neurons, computational graphs, gradients and backpropagation.
 - [ ] Complete the micrograd exercises.
 - [ ] Implement a small neural network without relying on a deep-learning framework.
 - [ ] Verify that your manually calculated gradients match numerical gradients.
 
-## 1.2 Understand language modelling basics
+## 1.2 Understand language modelling basics [6.5 h]
 
 - [ ] Lecture 2 — Build makemore: understand bigram language models, tensors, training and loss.
 - [ ] Complete the makemore exercises.
 - [ ] Build a character-level bigram language model.
 - [ ] Experiment with training and sampling.
 
-## 1.3 Understand multilayer neural networks
+## 1.3 Understand multilayer neural networks [5 h]
 
 - [ ] Lecture 3 — Build an MLP language model.
 - [ ] Understand embeddings, hidden layers, activation functions and loss functions.
@@ -33,14 +35,14 @@ Primary resource: Andrej Karpathy — Neural Networks: Zero to Hero
 - [ ] Understand overfitting, underfitting and learning-rate tuning.
 - [ ] Complete the associated exercises.
 
-## 1.4 Understand training stability
+## 1.4 Understand training stability [6 h]
 
 - [ ] Lecture 4 — Study activations, gradients and Batch Normalization.
 - [ ] Understand vanishing and exploding gradients.
 - [ ] Learn how to diagnose training problems.
 - [ ] Complete the exercises.
 
-## 1.5 Understand backpropagation deeply
+## 1.5 Understand backpropagation deeply [8 h]
 
 - [ ] Lecture 5 — Backprop Ninja.
 - [ ] Manually implement backpropagation for a two-layer MLP.

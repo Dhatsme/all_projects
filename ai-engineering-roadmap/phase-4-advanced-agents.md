@@ -2,6 +2,8 @@
 
 [← Back to roadmap](README.md)
 
+_Sub-chapter times in [brackets] are realistic mid-point estimates (between best and worst case), including ~2× video time plus exercises._
+
 Estimated: 16–24 hours | 2–3 weeks
 
 Primary resource: UC Berkeley — Advanced LLM Agents, Spring 2025
@@ -13,14 +15,14 @@ Primary resource: UC Berkeley — Advanced LLM Agents, Spring 2025
 
 This course focuses on advanced reasoning, search, planning, memory, coding agents and program verification. [Official syllabus](https://rdi.berkeley.edu/adv-llm-agents/sp25).
 
-## 4.1 Reasoning at inference time
+## 4.1 Reasoning at inference time [5 h]
 
 - [ ] Lecture 1 — Inference-Time Techniques for LLM Reasoning.
 - [ ] Understand how additional computation at inference time can improve reasoning.
 - [ ] Understand search-based reasoning and multiple candidate solutions.
 - [ ] Understand the limitations of asking a model to simply rethink an answer.
 
-## 4.2 Agent memory and planning
+## 4.2 Agent memory and planning [6 h]
 
 - [ ] Lecture 3 — Reasoning, Memory and Planning of Language Agents.
 - [ ] Understand short-term and long-term memory.
@@ -28,7 +30,7 @@ This course focuses on advanced reasoning, search, planning, memory, coding agen
 - [ ] Understand planning and task decomposition.
 - [ ] Design a memory strategy for an agent that works across multiple sessions.
 
-## 4.3 Coding agents and vulnerability detection
+## 4.3 Coding agents and vulnerability detection [5 h]
 
 - [ ] Lecture 5 — Coding Agents and AI for Vulnerability Detection.
 - [ ] Understand how agents explore code repositories.
@@ -36,7 +38,7 @@ This course focuses on advanced reasoning, search, planning, memory, coding agen
 - [ ] Understand the challenges of automated code generation.
 - [ ] Consider how an agent could help debug engineering code.
 
-## 4.4 Multimodal agents — optional
+## 4.4 Multimodal agents — optional [3 h]
 
 - [ ] Lecture 6 — Multimodal Autonomous AI Agents.
 - [ ] Understand how agents combine visual perception and language.

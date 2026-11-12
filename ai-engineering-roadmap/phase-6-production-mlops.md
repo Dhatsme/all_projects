@@ -2,6 +2,8 @@
 
 [← Back to roadmap](README.md)
 
+_Sub-chapter times in [brackets] are realistic mid-point estimates (between best and worst case), including ~2× video time plus exercises._
+
 Estimated: 48–60 hours | 6–8 weeks
 
 Primary resource: Carnegie Mellon University — Machine Learning in Production, Spring 2026
@@ -14,7 +16,7 @@ Primary resource: Carnegie Mellon University — Machine Learning in Production,
 
 CMU covers the lifecycle of AI products, including testing, risk, deployment, monitoring, security and operations. The materials are publicly available under Creative Commons licenses. [Official course description and schedule](https://mlip-cmu.github.io/s2026/).
 
-## 6.1 AI product requirements and risk
+## 6.1 AI product requirements and risk [6 h]
 
 - [ ] Lecture — Correctness and Risk.
 - [ ] Lecture — Planning for Mistakes.
@@ -22,7 +24,7 @@ CMU covers the lifecycle of AI products, including testing, risk, deployment, mo
 - [ ] Identify risks before deploying an AI feature.
 - [ ] Define acceptable and unacceptable system behaviour.
 
-## 6.2 Model and system testing
+## 6.2 Model and system testing [9 h]
 
 - [ ] Lecture — Model Quality.
 - [ ] Lecture — Behavioral Model Testing.
@@ -31,7 +33,7 @@ CMU covers the lifecycle of AI products, including testing, risk, deployment, mo
 - [ ] Understand regression testing for LLM applications.
 - [ ] Create a small automated test suite.
 
-## 6.3 CI/CD and deployment
+## 6.3 CI/CD and deployment [9 h]
 
 - [ ] Lecture — Automating and Testing ML Pipelines.
 - [ ] Lecture — Deploying a Model.
@@ -40,7 +42,7 @@ CMU covers the lifecycle of AI products, including testing, risk, deployment, mo
 - [ ] Understand deployment pipelines.
 - [ ] Build a basic CI pipeline for your LLM application.
 
-## 6.4 Production experimentation and data quality
+## 6.4 Production experimentation and data quality [6 h]
 
 - [ ] Lecture — Testing and Experimenting in Production.
 - [ ] Lecture — Data Quality.
@@ -49,7 +51,7 @@ CMU covers the lifecycle of AI products, including testing, risk, deployment, mo
 - [ ] Understand model drift and changing user behaviour.
 - [ ] Understand why production performance can deteriorate over time.
 
-## 6.5 Scaling and operations
+## 6.5 Scaling and operations [6 h]
 
 - [ ] Lecture — Scaling the System.
 - [ ] Lecture — Planning for Operations.
@@ -58,7 +60,7 @@ CMU covers the lifecycle of AI products, including testing, risk, deployment, mo
 - [ ] Understand operational monitoring and incident handling.
 - [ ] Design a simple system dashboard.
 
-## 6.6 Security and safety
+## 6.6 Security and safety [9 h]
 
 - [ ] Lecture — ML Security.
 - [ ] Lecture — System Security.
@@ -68,7 +70,7 @@ CMU covers the lifecycle of AI products, including testing, risk, deployment, mo
 - [ ] Understand data exposure and excessive tool permissions.
 - [ ] Create a security checklist for an agent application.
 
-## Practical work
+## Practical work [9 h]
 
 - [ ] Containerize your LLM application using Docker.
 - [ ] Add automated tests.

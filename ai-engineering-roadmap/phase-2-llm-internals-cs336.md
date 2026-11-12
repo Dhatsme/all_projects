@@ -2,6 +2,8 @@
 
 [← Back to roadmap](README.md)
 
+_Sub-chapter times in [brackets] are realistic mid-point estimates (between best and worst case), including ~2× video time plus exercises._
+
 Estimated: 75–105 hours | 9–13 weeks
 
 Primary resource: Stanford CS336 — Language Modeling from Scratch, Spring 2025
@@ -13,21 +15,21 @@ Primary resource: Stanford CS336 — Language Modeling from Scratch, Spring 2025
 
 This course is implementation-heavy. It is the main resource for understanding the internals of modern language models. Its assignments include implementing a Transformer, working with training data and studying alignment. [Course details](https://cs336.stanford.edu/spring2025/).
 
-## 2.1 Language modelling and tokenization
+## 2.1 Language modelling and tokenization [7.5 h]
 
 - [ ] Lecture 1 — Overview and tokenization.
 - [ ] Understand how text is converted into tokens.
 - [ ] Understand vocabulary, token IDs and tokenization trade-offs.
 - [ ] Implement a basic tokenizer as part of Assignment 1.
 
-## 2.2 PyTorch and model implementation
+## 2.2 PyTorch and model implementation [5.5 h]
 
 - [ ] Lecture 2 — PyTorch and resource accounting.
 - [ ] Understand tensors, automatic differentiation and model memory.
 - [ ] Learn how model parameters and activations consume memory.
 - [ ] Complete the relevant Assignment 1 components.
 
-## 2.3 Transformer architecture
+## 2.3 Transformer architecture [15 h]
 
 - [ ] Lecture 3 — Architectures and hyperparameters.
 - [ ] Understand attention, self-attention and positional information.
@@ -38,7 +40,7 @@ This course is implementation-heavy. It is the main resource for understanding t
 - [ ] Complete the Transformer implementation in Assignment 1.
 - [ ] Train a small language model.
 
-## 2.4 GPU and model execution fundamentals
+## 2.4 GPU and model execution fundamentals [6 h]
 
 - [ ] Lecture 5 — GPUs.
 - [ ] Understand GPU memory, computation and bottlenecks.
@@ -47,14 +49,14 @@ This course is implementation-heavy. It is the main resource for understanding t
 - [ ] Skip Lecture 6 (Triton kernels) for now.
 - [ ] Skip Lecture 8 (deeper parallelism implementation) for now.
 
-## 2.5 Model scaling
+## 2.5 Model scaling [11.5 h]
 
 - [ ] Lecture 9 — Scaling laws.
 - [ ] Understand the relationship between model size, data and compute.
 - [ ] Complete Assignment 3 — Scaling.
 - [ ] Understand why simply increasing model size does not guarantee better results.
 
-## 2.6 LLM inference
+## 2.6 LLM inference [3 h]
 
 - [ ] Lecture 10 — Inference.
 - [ ] Understand how a trained model generates responses.
@@ -62,7 +64,7 @@ This course is implementation-heavy. It is the main resource for understanding t
 - [ ] Understand inference latency and throughput.
 - [ ] Understand why inference can be expensive.
 
-## 2.7 Model evaluation
+## 2.7 Model evaluation [5.5 h]
 
 - [ ] Lecture 11 — Scaling laws.
 - [ ] Lecture 12 — Evaluation.
@@ -70,7 +72,7 @@ This course is implementation-heavy. It is the main resource for understanding t
 - [ ] Understand benchmarks and evaluation datasets.
 - [ ] Understand why a model can perform well on benchmarks but fail in real applications.
 
-## 2.8 Training data
+## 2.8 Training data [16 h]
 
 - [ ] Lecture 13 — Data.
 - [ ] Lecture 14 — Data.
@@ -78,7 +80,7 @@ This course is implementation-heavy. It is the main resource for understanding t
 - [ ] Complete a simplified version of Assignment 4.
 - [ ] Understand how poor data quality affects model quality.
 
-## 2.9 Alignment and reasoning
+## 2.9 Alignment and reasoning [19 h]
 
 - [ ] Lecture 15 — Supervised fine-tuning and RLHF.
 - [ ] Lecture 16 — Reinforcement learning for language models.
@@ -88,7 +90,7 @@ This course is implementation-heavy. It is the main resource for understanding t
 - [ ] Understand the basic role of reinforcement learning in LLM training.
 - [ ] Complete a simplified Assignment 5 exercise.
 
-## Assignments to complete
+## Assignments to complete [time included in 2.1–2.9]
 
 - [ ] Assignment 1 — Basics: Implement tokenizer, Transformer architecture and optimizer; train a small model.
 - [ ] Assignment 3 — Scaling: Work through the scaling-law exercise.

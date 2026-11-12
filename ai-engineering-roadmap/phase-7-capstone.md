@@ -2,13 +2,15 @@
 
 [← Back to roadmap](README.md)
 
+_Sub-chapter times in [brackets] are realistic mid-point estimates (between best and worst case), including ~2× video time plus exercises._
+
 Estimated: 35–45 hours | 4–6 weeks
 
 Build a practical AI application that demonstrates your understanding of LLMs, RAG, agents, evaluation and production engineering.
 
 The project should be more than a chatbot. It should solve an engineering problem end to end.
 
-## 7.1 Define the project
+## 7.1 Define the project [3 h]
 
 - [ ] Create a GitHub repository.
 - [ ] Define the problem statement.
@@ -16,7 +18,7 @@ The project should be more than a chatbot. It should solve an engineering proble
 - [ ] Include design documents, specifications, debugging notes and selected technical references.
 - [ ] Define the user stories and expected behaviour.
 
-## 7.2 Build the knowledge base
+## 7.2 Build the knowledge base [8 h]
 
 - [ ] Implement document ingestion.
 - [ ] Extract text from PDFs and Markdown files.
@@ -26,7 +28,7 @@ The project should be more than a chatbot. It should solve an engineering proble
 - [ ] Implement semantic retrieval.
 - [ ] Include source references in retrieved results.
 
-## 7.3 Build the AI assistant
+## 7.3 Build the AI assistant [10 h]
 
 - [ ] Implement a RAG-based question-answering assistant.
 - [ ] Add document summarization.
@@ -36,7 +38,7 @@ The project should be more than a chatbot. It should solve an engineering proble
 - [ ] Add an agent workflow for multi-step investigation.
 - [ ] Ensure answers distinguish source-backed facts from assumptions.
 
-## 7.4 Add evaluation
+## 7.4 Add evaluation [7 h]
 
 - [ ] Create at least 30 representative test questions.
 - [ ] Define expected source documents for each question.
@@ -46,7 +48,7 @@ The project should be more than a chatbot. It should solve an engineering proble
 - [ ] Test how the assistant behaves when information is missing.
 - [ ] Track regressions when prompts or models change.
 
-## 7.5 Make it production-ready
+## 7.5 Make it production-ready [8 h]
 
 - [ ] Create a simple web interface.
 - [ ] Create an API backend.
@@ -58,7 +60,7 @@ The project should be more than a chatbot. It should solve an engineering proble
 - [ ] Add error handling and access controls.
 - [ ] Document known limitations.
 
-## 7.6 Publish the project
+## 7.6 Publish the project [4 h]
 
 - [ ] Write a detailed README.
 - [ ] Add an architecture diagram.
